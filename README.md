@@ -1,5 +1,5 @@
 # goWeather
-A **Golang** package for obtaining weather information
+A **Golang** package for obtaining weather information for free
 
 Package `goWeather` uses `weather.service.msn.com` as the source of information
 
