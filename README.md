@@ -117,7 +117,7 @@ import (
   "fmt"
   "encoding/json"
 
-  weather "goWeather"
+  weather "github.com/etosticity/goWeather"
 )
 
 var result WeatherQuery

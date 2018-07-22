@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 
-	weather "goWeather"
+	weather "github.com/etosticity/goWeather"
 )
 
 var result WeatherQuery
